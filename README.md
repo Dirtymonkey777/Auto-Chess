@@ -1,7 +1,7 @@
 
 
 # Auto-Chess
-Auto Chess is a chess cheat that displays the best moves in real time on the screen using arrows, allowing you to win 100% of your matches.
+Auto Chess is a chess assistant that displays the best moves on-screen in real time; it can be used for study purposes as well as during online games.
 
 WATCH THE TUTORIAL FROM YOUTUBE ( https://www.youtube.com/watch?v=uCRmt-ZyCC0 )
 
